@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7e/e7/06/7ee7063d8cc617abeb96b658428389d3.gif" width="100%" alt="Anime Banner" style="border-radius:15px;"/>
+  <img src="https://media.giphy.com/media/13fzaweZWcgZOg/giphy.gif" width="100%" alt="Anime Banner" style="border-radius:15px;"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+vizca808+👋;Full-Stack+Developer+🚀;Data+Enthusiast+📊;I+Love+Anime+&+Coding+💻✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+vizca808+👋;Full-Stack+Developer+🚀;Data+Enthusiast+📊;I+Love+Anime+and+Coding+💻✨" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Crafting digital experiences with Code, Coffee & Anime ☕🎌</h3>
