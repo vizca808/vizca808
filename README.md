@@ -1,14 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/wallpapers/evening-sky.png" width="100%" alt="Anime Banner" style="border-radius:15px;"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+vizca808;Full-Stack+Developer;Data+Enthusiast;I+Love+Anime+and+Coding" alt="Typing SVG" />
-</div>
-
-<h3 align="center">Crafting digital experiences with Code, Coffee & Anime ☕🎌</h3>
+<h1 align="center">Hi there, I'm Faisal Dino Bahtiar 👋</h1>
+<h3 align="center">Data Enthusiast & Information Systems Professional 🚀</h3>
+<p align="center"><i>Crafting data-driven solutions and digital experiences</i></p>
 
 <div align="center">
   <a href="mailto:faisaldinobahtiar808@gmail.com">
