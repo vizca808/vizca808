@@ -34,6 +34,16 @@ Information Systems professional with experience in data analysis, administratio
 
 ---
 
+### 🏆 Certifications & Training (Universitas Gunadarma)
+
+- 🏅 **[Dasar Sistem Manajemen Basis Data (Fundamental DBMS)](certificates/Fundamental_DBMS.pdf)** - Feb 2021
+- 🏅 **[Dasar Pemrograman Berbasis Web (Fundamental Web Programming)](certificates/Fundamental_Web_Programming.pdf)** - Aug 2021
+- 🏅 **[Instalasi LAN Nirkabel (Wireless LAN Installation)](certificates/Wireless_LAN_Installation.pdf)** - Aug 2022
+- 🏅 **[Oracle Untuk Tingkat Pemula (Oracle for Beginner)](certificates/Oracle_For_Beginner.pdf)** - Aug 2022
+- 🏅 **[Oracle Untuk Tingkat Menengah (Oracle for Intermediate)](certificates/Oracle_For_Intermediate.pdf)** - Aug 2023
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
