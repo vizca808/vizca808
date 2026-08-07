@@ -37,18 +37,5 @@ Information Systems professional with experience in data analysis, administratio
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vizca808&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="vizca808's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vizca808&theme=tokyonight&hide_border=true&background=0D1117" alt="vizca808's GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizca808&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-<div align="center">
-  <i>Visitors Count:</i><br>
-  <img src="https://profile-counter.glitch.me/vizca808/count.svg" alt="Visitors Count" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vizca808&theme=tokyonight&hide_border=true&background=0D1117" alt="vizca808's GitHub Streak" />
 </div>
