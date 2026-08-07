@@ -32,15 +32,18 @@ Information Systems professional with experience in data analysis, administratio
   </a>
 </div>
 
----
+### 🏆 Certifications & Training
 
-### 🏆 Certifications & Training (Universitas Gunadarma)
-
-- 🏅 **[Dasar Sistem Manajemen Basis Data (Fundamental DBMS)](certificates/Fundamental_DBMS.pdf)** - Feb 2021
-- 🏅 **[Dasar Pemrograman Berbasis Web (Fundamental Web Programming)](certificates/Fundamental_Web_Programming.pdf)** - Aug 2021
+- 🏅 **[Fundamental of Data Analyst (Fresh Graduate Academy - KOMDIGI)](certificates/Fundamental_Data_Analyst_KOMDIGI.pdf)** - Aug 2025
+- 🏅 **[Membuat Business Intelligence (Creating Business Intelligence)](certificates/Creating_Business_Intelligence.pdf)** - Jun 2024
+- 🏅 **[Persiapan Data Untuk Proses Bisnis (Data Preparation)](certificates/Data_Preparation_for_Business.pdf)** - Dec 2023
+- 🏅 **[Oracle Untuk Tingkat Menengah (Oracle for Intermediate)](certificates/Oracle_For_Intermediate.pdf)** - Aug 2023
+- 🏅 **[SQL Server Untuk Tingkat Menengah (SQL Server for Intermediate)](certificates/SQL_Server_For_Intermediate.pdf)** - Feb 2023
 - 🏅 **[Instalasi LAN Nirkabel (Wireless LAN Installation)](certificates/Wireless_LAN_Installation.pdf)** - Aug 2022
 - 🏅 **[Oracle Untuk Tingkat Pemula (Oracle for Beginner)](certificates/Oracle_For_Beginner.pdf)** - Aug 2022
-- 🏅 **[Oracle Untuk Tingkat Menengah (Oracle for Intermediate)](certificates/Oracle_For_Intermediate.pdf)** - Aug 2023
+- 🏅 **[SQL Server Untuk Tingkat Pemula (SQL Server for Beginner)](certificates/SQL_Server_For_Beginner.pdf)** - Feb 2022
+- 🏅 **[Dasar Pemrograman Berbasis Web (Fundamental Web Programming)](certificates/Fundamental_Web_Programming.pdf)** - Aug 2021
+- 🏅 **[Dasar Sistem Manajemen Basis Data (Fundamental DBMS)](certificates/Fundamental_DBMS.pdf)** - Feb 2021
 
 ---
 
