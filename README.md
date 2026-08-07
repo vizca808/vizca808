@@ -20,11 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Data-Assistant](https://github.com/vizca808/Data-Assistant)** (An AI-powered data analytics platform).
-- 🌱 I’m currently exploring **Advanced Next.js, AI Integration, and Cloud Architecture**.
-- 👯 I’m looking to collaborate on **Open Source Projects & Full-Stack Applications**.
-- 💬 Ask me about **Next.js, React, TailwindCSS, FastAPI, and Python**.
-- ⚡ Fun fact: I believe that every bug is just an undocumented feature waiting to be solved!
+Information Systems professional with experience in data analysis, administration, and customer-facing roles. Skilled in SQL, Python, Google Data Studio, and data visualization, with the ability to manage and process information accurately and efficiently. Possesses strong communication, teamwork, and problem-solving abilities, with a passion for learning and professional growth.
 
 ---
 
