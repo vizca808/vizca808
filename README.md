@@ -34,6 +34,10 @@ Information Systems professional with experience in data analysis, administratio
 
 ### 🏆 Certifications & Training
 
+- 🏅 **[Dasar dan Penggunaan Generatif AI (Codepolitan)](certificates/Dasar_Penggunaan_Generatif_AI.pdf)** - Oct 2025
+- 🏅 **[LLM-Based Tools & Gemini API for Data Scientists (Hacktiv8)](certificates/LLM_Based_Tools_and_Gemini_API.pdf)** - Sep 2025
+- 🏅 **[Data Classification and Summarization Using IBM Granite (IBM)](certificates/Data_Classification_IBM_Granite.pdf)** - Sep 2025
+- 🏅 **[AI Talent Hub Program (Telkom CorpU)](certificates/AI_Talent_Hub_Program.pdf)** - Sep 2025
 - 🏅 **[Fundamental of Data Analyst (Fresh Graduate Academy - KOMDIGI)](certificates/Fundamental_Data_Analyst_KOMDIGI.pdf)** - Aug 2025
 - 🏅 **[Membuat Business Intelligence (Creating Business Intelligence)](certificates/Creating_Business_Intelligence.pdf)** - Jun 2024
 - 🏅 **[Persiapan Data Untuk Proses Bisnis (Data Preparation)](certificates/Data_Preparation_for_Business.pdf)** - Dec 2023
