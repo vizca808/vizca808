@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.jpg" width="100%" style="border-radius:15px; margin-bottom: 20px;" alt="Data Science Banner"/>
+</div>
+
 <h1 align="center">Hi there, I'm Faisal Dino Bahtiar 👋</h1>
 <h3 align="center">Data Enthusiast & Information Systems Professional 🚀</h3>
 <p align="center"><i>Crafting data-driven solutions and digital experiences</i></p>
