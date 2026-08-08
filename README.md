@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Faisal Dino Bahtiar 👋</h1>
+<h1 align="center">Hi, I'm Faisal Dino Bahtiar 👋</h1>
 <h3 align="center">Data Enthusiast & Information Systems Professional 🚀</h3>
 <p align="center"><i>Crafting data-driven solutions and digital experiences</i></p>
 
